@@ -4,3 +4,6 @@ añadimos otra línea
 ahora a master
 otro cambio y comprobamos
 esto se sube?
+hemos modificado el código y ahora
+lo subimos a la rama master para
+actualizar la version
